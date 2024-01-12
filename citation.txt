@@ -1,0 +1,9 @@
+@article{REPO167,
+    author = "Hao, Hao and Zhou, Aimin and Qian, Hong and Zhang, Hu",
+    journal = "IEEE Transactions on Evolutionary Computation",
+    number = "5",
+    pages = "1157-1170",
+    title = "{Expensive Multiobjective Optimization by Relation Learning and Prediction}",
+    volume = "26",
+    year = "2022"
+}
